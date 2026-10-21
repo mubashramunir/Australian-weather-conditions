@@ -136,29 +136,6 @@ Three `unittest` test classes run inside the notebook, and all **13 tests pass**
 
 ---
 
-## Getting started
-
-### Requirements
-
-- Python 3.9+
-- Jupyter Notebook or JupyterLab
-- pandas, numpy, matplotlib, seaborn, scikit-learn
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-```
-
-### Run the notebook
-
-1. Clone this repository.
-2. Download `weatherAUS.csv` from [Kaggle](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package) and place it in the project folder.
-3. Open the notebook:
-   ```bash
-   jupyter notebook "Weather Australia.ipynb"
-   ```
-4. Run all cells (**Kernel → Restart & Run All**). The cleaned and merged CSVs will be created in the project folder.
-
----
 
 ## Limitations
 
