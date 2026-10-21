@@ -127,7 +127,6 @@ Three `unittest` test classes run inside the notebook, and all **13 tests pass**
 
 ```
 ├── Weather Australia.ipynb    # Full analysis notebook
-├── Weather Australia.html     # Exported copy of the notebook for viewing
 ├── weatherAUS.csv             # Raw dataset (download from Kaggle)
 ├── weatherAUS_cleaned.csv     # Generated: cleaned dataset
 ├── weatherAUS_merged.csv      # Generated: merged dataset
