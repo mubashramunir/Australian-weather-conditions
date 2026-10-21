@@ -1,4 +1,4 @@
-# Australian Weather Data Analysis Using Python
+# Australian Weather Data Analysis
 
 A data cleaning, feature engineering and visualisation project on roughly 142,000 daily weather observations from 49 Australian weather stations, built in Python with Pandas, Matplotlib, Seaborn and Scikit-learn and tested with `unittest`.
 
