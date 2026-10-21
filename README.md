@@ -126,10 +126,12 @@ Three `unittest` test classes run inside the notebook, and all **13 tests pass**
 ## Repository structure
 
 ```
-├── Weather Australia.ipynb    # Full analysis notebook
-├── weatherAUS.csv             # Raw dataset (download from Kaggle)
-├── weatherAUS_cleaned.csv     # Generated: cleaned dataset
-├── weatherAUS_merged.csv      # Generated: merged dataset
+├── Weather Australia.ipynb   # Full analysis notebook
+├── Weather Australia.py      # Python script version of the notebook
+├── Weather Australia.pdf     # PDF export of the analysis
+├── weatherAUS.csv            # Raw dataset (source: Kaggle)
+├── weatherAUS_cleaned.csv    # Generated: cleaned dataset
+├── weatherAUS_merged.csv     # Generated: merged dataset
 └── README.md
 ```
 
